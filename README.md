@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**anuananya13/anuananya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm a beginner web developer currently learning and building projects using **HTML, CSS, Bootstrap, JavaScript, and Java**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🌱 Currently learning **Web Development and JavaScript**
+* 💻 Interested in **Frontend Development**
+* 🚀 Building projects to improve my coding skills
+* 🎯 Looking for opportunities to start my career in the IT industry
+* 📚 Always interested in learning new technologies
+
+## 🛠️ Skills
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+
+### Programming
+
+* Java
+
+### Other
+
+* Git & GitHub
+* Responsive Web Design
+
+## 📂 Projects
+
+### 🧮 JavaScript Calculator
+
+A simple calculator created using HTML, CSS, and JavaScript.
+
+**Technologies:** HTML | CSS | JavaScript
+
+### ✅ To-Do List
+
+A simple to-do list application that allows users to add and manage tasks.
+
+**Technologies:** HTML | CSS | JavaScript
+
+### 🌐 Responsive Website
+
+A responsive website created using HTML, CSS, Bootstrap, and JavaScript.
+
+**Technologies:** HTML | CSS | Bootstrap | JavaScript
+
+## 📚 Currently Learning
+
+* Advanced JavaScript
+* DOM Manipulation
+* JavaScript Promises
+* Responsive Web Design
+* Git & GitHub
+
+## 🎯 Career Goal
+
+My goal is to become a professional **Web Developer** and build useful, responsive, and user-friendly websites and applications.
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/ananya-singh-76b742274
+* 📧 Email: ananyasingh72758@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
